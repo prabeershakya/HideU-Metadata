@@ -9,19 +9,6 @@ It enables investigators, students, and security enthusiasts to **extract metada
 
 ---
 
-## 📑 Table of Contents
-- [✨ Key Features](#-key-features)
-- [🖼️ Screenshots](#️-screenshots)
-- [🚀 Installation](#-installation)
-- [📖 Usage Guide](#-usage-guide)
-- [🧩 Dependencies](#-dependencies)
-- [📁 Project Structure](#-project-structure)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [🙏 Acknowledgements](#-acknowledgements)
-
----
-
 ## ✨ Key Features
 
 ### 📊 Metadata Explorer
@@ -58,18 +45,3 @@ It enables investigators, students, and security enthusiasts to **extract metada
 ### 💾 Reporting & Export
 - **Export metadata & batch results to JSON** – includes timestamp and full forensic data.
 - **Clear Session** – reset all tabs and stored data with one click.
-
----
-
-## 🚀 Installation
-
-### Prerequisites
-- Python **3.8 or higher**
-- `pip` (Python package installer)
-
-### Step‑by‑Step
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/prabeershakya/hideu-metadata.git
-   cd hideu-metadata
